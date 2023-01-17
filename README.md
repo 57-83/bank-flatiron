@@ -1,21 +1,8 @@
 # Bank of Flatiron
 
+# Description
 Welcome to the Bank of Flatiron, where you can trust us with all your financial
 data! Use the below gif as an example of how the app should function.
-
-![demo](https://curriculum-content.s3.amazonaws.com/phase-2/phase-2-code-challenge-bank-of-flatiron/demo.gif)
-
-> To view in VSCode, right click on the README.md file and select "Open Preview".
-
-## Instructions
-
-For this project, you’ll be building out a React application that displays a
-list of your recent bank transactions, among other features.
-
-Part of what this code challenge is testing is your ability to follow given
-instructions. While you will definitely have a significant amount of freedom in
-how you implement the features, be sure to carefully read the directions for
-setting up the application.
 
 ## Setup
 
@@ -28,13 +15,6 @@ After unbundling the project:
 Make sure to open
 [http://localhost:8001/transactions](http://localhost:8001/transactions) in the
 browser to verify that your backend is working before you proceed!
-
-The app uses [Semantic UI](https://semantic-ui.com/) for styling. If you see any
-unfamiliar classNames on some components, don't sweat! That's coming from
-Semantic UI and you shouldn't need to touch it.
-
-If you are unfamiliar with HTML tables, take a look at the
-[docs with an example here](https://www.w3schools.com/html/html_tables.asp)
 
 ## Endpoints
 
