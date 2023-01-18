@@ -113,3 +113,9 @@ Example Response:
 ```json
 {}
 ```
+  ### Author 
+  sumeya Haji
+​
+  ### Licence
+​
+Licenced under the [ISC-licenced]
